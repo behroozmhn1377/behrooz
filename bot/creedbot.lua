@@ -239,7 +239,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {113741799,152046992,128035701,196085335},--Sudo users
+    sudo_users = {89313657,113741799},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -250,7 +250,7 @@ function create_config( )
     ‼️ this bot is made by : @Dawsh_iman
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @Dawsh_saman
+   ߔࠀ   @alihack50
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -343,7 +343,8 @@ You Can user both "!" & "/" for them
 
 ]],
     help_text = [[
-ghost_bots Help for mods : Plugins
+LINUX(W) Help for mods : Plugins
+channel id: @apkcade
 
 Banhammer : 
 
@@ -368,7 +369,7 @@ For Admins :
 !unbanall ID
 برای آنبن کردن استفاده میشود ولی فقط با ای دی میشود
 
-〰〰〰〰〰〰〰〰〰〰
+==================
 2. GroupManager :
 
 !lock leave
@@ -463,7 +464,7 @@ gets The Group link
 !linkpv
 sends the group link to the PV
 برای دریافت لینک در پیوی استفاده میشه 
-〰〰〰〰〰〰〰〰
+=====================
 Admins :®
 !add
 to add the group as knows
@@ -510,7 +511,7 @@ To send a message to an account by his/her ID
 برای فرستادن متنی توسط ربات به شخصی با ای دی اون
 
 
-〰〰〰〰〰〰〰〰〰〰〰
+=====================
 3. Stats :©
 !stats ghost_bot (sudoers)✔️
 To see the stats of ghost_bot
@@ -520,23 +521,23 @@ To see the stats of ghost_bot
 To see the group stats
 برای دیدن آمار گروه 
 
-〰〰〰〰〰〰〰〰
+=====================
 4. Feedback⚫️
 !feedback (text)
 To send your ideas to the Moderation group
 برای فرستادن انتقادات و پیشنهادات و حرف خود با مدیر ها استفاده میشه
 
-〰〰〰〰〰〰〰〰〰〰〰
+==============
 5. Tagall◻️
 !tagall (text)
 To tags the every one and sends your message at bottom
 تگ کردن همه ی اعضای گروه و نوشتن پیام شما زیرش
 
-〰〰〰〰〰〰〰〰〰
+======================
 More plugins  soon ...
 ⚠️ We are ghosts ⚠️
 
-our channel : @ghost_bot_team
+our channel : @apkcade
 کانال ما
 
 You Can user both "!" & "/" for them
